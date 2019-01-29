@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy 1
+  - Enemy 2
+  - Enemy 3
+  - ScoreUI
+  - Shields
+  - Enemies
+  - S1
+  - S2
+  - S3
+  - S4
+  - S5
+  - N1
+  - N2
+  - N3
+  - N4
+  - N5
+  - Berserk
+  - Laser
+  - Ammo Parent
+  - PowerUps
+  - Bullets
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
